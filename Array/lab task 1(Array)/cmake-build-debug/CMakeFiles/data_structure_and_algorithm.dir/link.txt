@@ -1,0 +1,1 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/data_structure_and_algorithm.dir/main.cpp.o CMakeFiles/data_structure_and_algorithm.dir/Student.cpp.o  -o data_structure_and_algorithm 

@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/qasim/Desktop/university/semester-4/data structure and algorithm/student course/Course.cpp
+Course.h
+/Users/qasim/Desktop/university/semester-4/data structure and algorithm/student course/Course.h
+
+/Users/qasim/Desktop/university/semester-4/data structure and algorithm/student course/Course.h
+iostream
+-
+string
+-
+Student.h
+/Users/qasim/Desktop/university/semester-4/data structure and algorithm/student course/Student.h
+
+/Users/qasim/Desktop/university/semester-4/data structure and algorithm/student course/Student.cpp
+Student.h
+/Users/qasim/Desktop/university/semester-4/data structure and algorithm/student course/Student.h
+
+/Users/qasim/Desktop/university/semester-4/data structure and algorithm/student course/Student.h
+string
+-
+
+/Users/qasim/Desktop/university/semester-4/data structure and algorithm/student course/main.cpp
+iostream
+-
+string
+-
+Course.h
+/Users/qasim/Desktop/university/semester-4/data structure and algorithm/student course/Course.h
+Student.h
+/Users/qasim/Desktop/university/semester-4/data structure and algorithm/student course/Student.h
+
