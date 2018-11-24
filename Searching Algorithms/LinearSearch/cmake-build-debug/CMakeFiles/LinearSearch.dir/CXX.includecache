@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/qasim/OneDrive/university/semester-4/Data-structure and algorithm/Searching Algorithms/LinearSearch/main.cpp
+iostream
+-
+typeinfo
+-
+
