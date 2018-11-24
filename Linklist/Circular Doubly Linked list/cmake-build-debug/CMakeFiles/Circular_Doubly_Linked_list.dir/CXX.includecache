@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/qasim/OneDrive/university/semester-4/Data-structure and algorithm/Linklist/Circular Doubly Linked list/Circular_Doubly_Linked_list.cpp
+Circular_Doubly_Linked_list.h
+/Users/qasim/OneDrive/university/semester-4/Data-structure and algorithm/Linklist/Circular Doubly Linked list/Circular_Doubly_Linked_list.h
+
+/Users/qasim/OneDrive/university/semester-4/Data-structure and algorithm/Linklist/Circular Doubly Linked list/Circular_Doubly_Linked_list.h
+iostream
+-
+Node.h
+/Users/qasim/OneDrive/university/semester-4/Data-structure and algorithm/Linklist/Circular Doubly Linked list/Node.h
+
+/Users/qasim/OneDrive/university/semester-4/Data-structure and algorithm/Linklist/Circular Doubly Linked list/Node.cpp
+Node.h
+/Users/qasim/OneDrive/university/semester-4/Data-structure and algorithm/Linklist/Circular Doubly Linked list/Node.h
+
+/Users/qasim/OneDrive/university/semester-4/Data-structure and algorithm/Linklist/Circular Doubly Linked list/Node.h
+
+/Users/qasim/OneDrive/university/semester-4/Data-structure and algorithm/Linklist/Circular Doubly Linked list/main.cpp
+iostream
+-
+Circular_Doubly_Linked_list.h
+/Users/qasim/OneDrive/university/semester-4/Data-structure and algorithm/Linklist/Circular Doubly Linked list/Circular_Doubly_Linked_list.h
+
