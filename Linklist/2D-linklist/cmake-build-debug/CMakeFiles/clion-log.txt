@@ -1,0 +1,4 @@
+/Applications/CLion.app/Contents/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" "/Users/qasim/OneDrive/university/semester-4/data structure and algorithm/2D-linklist"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/qasim/OneDrive/university/semester-4/data structure and algorithm/2D-linklist/cmake-build-debug

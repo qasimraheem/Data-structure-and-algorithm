@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/qasim/OneDrive/university/semester-4/data structure and algorithm/2D-linklist/Linklist.cpp
+Linklist.h
+/Users/qasim/OneDrive/university/semester-4/data structure and algorithm/2D-linklist/Linklist.h
+
+/Users/qasim/OneDrive/university/semester-4/data structure and algorithm/2D-linklist/Linklist.h
+iostream
+-
+Node.h
+/Users/qasim/OneDrive/university/semester-4/data structure and algorithm/2D-linklist/Node.h
+
+/Users/qasim/OneDrive/university/semester-4/data structure and algorithm/2D-linklist/Node.cpp
+Node.h
+/Users/qasim/OneDrive/university/semester-4/data structure and algorithm/2D-linklist/Node.h
+
+/Users/qasim/OneDrive/university/semester-4/data structure and algorithm/2D-linklist/Node.h
+
+/Users/qasim/OneDrive/university/semester-4/data structure and algorithm/2D-linklist/main.cpp
+iostream
+-
+Linklist.h
+/Users/qasim/OneDrive/university/semester-4/data structure and algorithm/2D-linklist/Linklist.h
+

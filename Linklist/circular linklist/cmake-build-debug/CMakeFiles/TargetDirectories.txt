@@ -1,0 +1,3 @@
+/Users/qasim/OneDrive/university/semester-4/data structure and algorithm/circular linklist/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/qasim/OneDrive/university/semester-4/data structure and algorithm/circular linklist/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/qasim/OneDrive/university/semester-4/data structure and algorithm/circular linklist/cmake-build-debug/CMakeFiles/circular_linklist.dir

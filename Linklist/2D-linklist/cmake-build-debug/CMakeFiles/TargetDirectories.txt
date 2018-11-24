@@ -1,0 +1,3 @@
+/Users/qasim/OneDrive/university/semester-4/data structure and algorithm/2D-linklist/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/qasim/OneDrive/university/semester-4/data structure and algorithm/2D-linklist/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/qasim/OneDrive/university/semester-4/data structure and algorithm/2D-linklist/cmake-build-debug/CMakeFiles/2D_linklist.dir

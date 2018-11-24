@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/qasim/OneDrive/university/semester-4/data structure and algorithm/circular linklist/Linklist_Circular.cpp
+Linklist_Circular.h
+/Users/qasim/OneDrive/university/semester-4/data structure and algorithm/circular linklist/Linklist_Circular.h
+
+/Users/qasim/OneDrive/university/semester-4/data structure and algorithm/circular linklist/Linklist_Circular.h
+iostream
+-
+Node.h
+/Users/qasim/OneDrive/university/semester-4/data structure and algorithm/circular linklist/Node.h
+
+/Users/qasim/OneDrive/university/semester-4/data structure and algorithm/circular linklist/Node.cpp
+Node.h
+/Users/qasim/OneDrive/university/semester-4/data structure and algorithm/circular linklist/Node.h
+
+/Users/qasim/OneDrive/university/semester-4/data structure and algorithm/circular linklist/Node.h
+
+/Users/qasim/OneDrive/university/semester-4/data structure and algorithm/circular linklist/main.cpp
+iostream
+-
+Linklist_Circular.h
+/Users/qasim/OneDrive/university/semester-4/data structure and algorithm/circular linklist/Linklist_Circular.h
+
